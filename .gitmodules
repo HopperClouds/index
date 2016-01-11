@@ -1,0 +1,3 @@
+[submodule ".heroku_hoppercloudscom"]
+	path = .heroku_hoppercloudscom
+	url = https://git.heroku.com/hopperclouds.git
